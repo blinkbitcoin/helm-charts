@@ -8,6 +8,11 @@ Retain an archive only when it is referenced by the original public index, every
 
 This snapshot contains 1,573 verified archives (257,796,430 bytes) and 1,573 index entries for 15 chart names. Retained archives are copied byte for byte. Retained index metadata, including original checksums, is unchanged except for package URLs.
 
+The reproducible comparison is [scripts/verify_archives.py](scripts/verify_archives.py),
+with [saved output](migration/verification-output.txt) and a
+[per-archive report](migration/verification-report.json).
+See [README.md](README.md#reproduce-the-archive-verification) for commands and scope.
+
 ## Excluded archives
 
 The user's policy is to drop ambiguous archives. Twelve archives and 21 original index entries are excluded:
