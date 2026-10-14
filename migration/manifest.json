@@ -1,8 +1,8 @@
 {
   "source_index": "https://blinkbitcoin.github.io/charts/index.yaml",
   "source_index_sha256": "3fc500d97df180105f96986edf524bdbc6b8a584364a51a79f64118e4c4d563d",
-  "package_count": 1585,
-  "total_bytes": 258606007,
+  "package_count": 1573,
+  "total_bytes": 257796430,
   "packages": [
     {
       "path": "packages/galoy-v0.34.7/galoy-0.34.7.tgz",
@@ -509,13 +509,6 @@
       "release_tag": "cala-v0.1.1"
     },
     {
-      "path": "packages/cala-v0.1.0/cala-0.1.0.tgz",
-      "sha256": "92dc4a8d7f278e13076e1b7e14cccf1744c36153fb9537cc5426aa9fa937e742",
-      "size": 59978,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/cala-v0.1.0/cala-0.1.0.tgz",
-      "release_tag": "cala-v0.1.0"
-    },
-    {
       "path": "packages/galoy-v0.33.105/galoy-0.33.105.tgz",
       "sha256": "ee548a549343edec933ff3bfb9cc18e12fa5e60187794d93c6d7a619b260e38f",
       "size": 354307,
@@ -535,13 +528,6 @@
       "size": 354651,
       "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-v0.33.104/galoy-0.33.104.tgz",
       "release_tag": "galoy-v0.33.104"
-    },
-    {
-      "path": "packages/cala-v0.1.7-dev/cala-0.1.7-dev.tgz",
-      "sha256": "ec5da024ac763c8b4f79eb20ac15370a4a66bfc533d42d5cf91762d4b8121589",
-      "size": 59758,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/cala-v0.1.7-dev/cala-0.1.7-dev.tgz",
-      "release_tag": "cala-v0.1.7-dev"
     },
     {
       "path": "packages/galoy-pay-v0.11.43/galoy-pay-0.11.43.tgz",
@@ -3286,13 +3272,6 @@
       "size": 347257,
       "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-v0.28.0/galoy-0.28.0.tgz",
       "release_tag": "galoy-v0.28.0"
-    },
-    {
-      "path": "packages/galoy-v0.27.4/galoy-0.27.4.tgz",
-      "sha256": "07c5cd903e543c416a6656fe182263411da1d645e2fc2f77930721c421168850",
-      "size": 348046,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-v0.27.4/galoy-0.27.4.tgz",
-      "release_tag": "galoy-v0.27.4"
     },
     {
       "path": "packages/bria-v0.8.16/bria-0.8.16.tgz",
@@ -6165,13 +6144,6 @@
       "release_tag": "bitcoind-v0.2.13"
     },
     {
-      "path": "packages/admin-panel-v0.2.10/admin-panel-0.2.10.tgz",
-      "sha256": "17fcb775a92f7a1b6be2f3e4d12fbe2beff1e27f0f0a44fb82d913e7719701e5",
-      "size": 1769,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/admin-panel-v0.2.10/admin-panel-0.2.10.tgz",
-      "release_tag": "admin-panel-v0.2.10"
-    },
-    {
       "path": "packages/monitoring-v0.1.49/monitoring-0.1.49.tgz",
       "sha256": "3f04eb968d356e48b67aac00029ffe3a6502338a818aa949ee17261b50bf98f5",
       "size": 98637,
@@ -6492,13 +6464,6 @@
       "size": 2903,
       "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-pay-v0.3.25/galoy-pay-0.3.25.tgz",
       "release_tag": "galoy-pay-v0.3.25"
-    },
-    {
-      "path": "packages/web-wallet-v0.1.52/web-wallet-0.1.52.tgz",
-      "sha256": "32954924927649ad294b2b7c4a6fd4dc7a824427a1817c926e25f1121deb97bb",
-      "size": 2621,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/web-wallet-v0.1.52/web-wallet-0.1.52.tgz",
-      "release_tag": "web-wallet-v0.1.52"
     },
     {
       "path": "packages/galoy-pay-v0.3.24/galoy-pay-0.3.24.tgz",
@@ -7402,13 +7367,6 @@
       "size": 293310,
       "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-v0.8.62/galoy-0.8.62.tgz",
       "release_tag": "galoy-v0.8.62"
-    },
-    {
-      "path": "packages/admin-panel-v0.2.1/admin-panel-0.2.1.tgz",
-      "sha256": "83ec099e49f86636ac1dcb72a59be2852901bdc177acacc6aca04030ad6992f7",
-      "size": 1726,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/admin-panel-v0.2.1/admin-panel-0.2.1.tgz",
-      "release_tag": "admin-panel-v0.2.1"
     },
     {
       "path": "packages/galoy-v0.8.61/galoy-0.8.61.tgz",
@@ -8972,13 +8930,6 @@
       "release_tag": "galoy-v0.5.3"
     },
     {
-      "path": "packages/bitcoind-v0.2.3/bitcoind-0.2.3.tgz",
-      "sha256": "fb9904e6f1b8ac4a04c0739f9a7c0ce7e5db6835c29aabc8d0b542f0629390e2",
-      "size": 5669,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/bitcoind-v0.2.3/bitcoind-0.2.3.tgz",
-      "release_tag": "bitcoind-v0.2.3"
-    },
-    {
       "path": "packages/admin-panel-v0.1.12/admin-panel-0.1.12.tgz",
       "sha256": "b9cf3f30a17875a7bf469dc7abc26d5ace929338e1b6ce7aaf195ce161d33d09",
       "size": 1651,
@@ -9285,13 +9236,6 @@
       "size": 233134,
       "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-v0.4.27/galoy-0.4.27.tgz",
       "release_tag": "galoy-v0.4.27"
-    },
-    {
-      "path": "packages/galoy-v0.4.26/galoy-0.4.26.tgz",
-      "sha256": "7cd14deb99ca96b9ebe985141e4276356cac80d2d51b8afe2d1234ebbb0e26a6",
-      "size": 233703,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-v0.4.26/galoy-0.4.26.tgz",
-      "release_tag": "galoy-v0.4.26"
     },
     {
       "path": "packages/rtl-v0.1.4/rtl-0.1.4.tgz",
@@ -10295,13 +10239,6 @@
       "release_tag": "dealer-v0.1.8"
     },
     {
-      "path": "packages/rtl-v0.1.1/rtl-0.1.1.tgz",
-      "sha256": "b48a5e2a2705e045171c6a26aa2320f849141f4201a7e2d402faa23a1dd09630",
-      "size": 16952,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/rtl-v0.1.1/rtl-0.1.1.tgz",
-      "release_tag": "rtl-v0.1.1"
-    },
-    {
       "path": "packages/monitoring-v0.1.3/monitoring-0.1.3.tgz",
       "sha256": "16a37ac6d5966672cb78d2580f24b62016d7fd9b719b790102e30143ef2ed4f3",
       "size": 75706,
@@ -10827,13 +10764,6 @@
       "release_tag": "galoy-v0.2.7"
     },
     {
-      "path": "packages/dealer-v0.1.2/dealer-0.1.2.tgz",
-      "sha256": "e683d7b1c0e295563a64c24e717ee54f0aa5d1b7f5df6a88e1087719fadbfe34",
-      "size": 55445,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/dealer-v0.1.2/dealer-0.1.2.tgz",
-      "release_tag": "dealer-v0.1.2"
-    },
-    {
       "path": "packages/bitcoind-v0.1.2/bitcoind-0.1.2.tgz",
       "sha256": "e6a9dacee51de7de83e4f8f2c5d8a2ced09278f4166e0c2421f5412bb0e9a799",
       "size": 5641,
@@ -10902,13 +10832,6 @@
       "size": 158751,
       "source": "https://github.com/blinkbitcoin/charts/releases/download/galoy-v0.2.4/galoy-0.2.4.tgz",
       "release_tag": "galoy-v0.2.4"
-    },
-    {
-      "path": "packages/admin-panel-v0.1.3/admin-panel-0.1.3.tgz",
-      "sha256": "1c0fcc3d627d96870e05921a00a5bc59a1ed13f7f073c40e2758916e857cdf2e",
-      "size": 1651,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/admin-panel-v0.1.3/admin-panel-0.1.3.tgz",
-      "release_tag": "admin-panel-v0.1.3"
     },
     {
       "path": "packages/lnd-v0.1.3/lnd-0.1.3.tgz",
@@ -10986,13 +10909,6 @@
       "size": 1650,
       "source": "https://github.com/blinkbitcoin/charts/releases/download/admin-panel-v0.1.1/admin-panel-0.1.1.tgz",
       "release_tag": "admin-panel-v0.1.1"
-    },
-    {
-      "path": "packages/lnd-v0.1.1/lnd-0.1.1.tgz",
-      "sha256": "c6b13b0acfa2eacfdb6ccfca522396d270e97e758e3b5e7fd01502e33083f402",
-      "size": 22259,
-      "source": "https://github.com/blinkbitcoin/charts/releases/download/lnd-v0.1.1/lnd-0.1.1.tgz",
-      "release_tag": "lnd-v0.1.1"
     },
     {
       "path": "packages/dealer-v0.1.1/dealer-0.1.1.tgz",
@@ -11099,5 +11015,6 @@
       "source": "https://github.com/blinkbitcoin/charts/releases/download/admin-panel-v0.1.0/admin-panel-0.1.0.tgz",
       "release_tag": "admin-panel-v0.1.0"
     }
-  ]
+  ],
+  "excluded_package_count": 12
 }
